@@ -1,5 +1,3 @@
-// Suggested code may be subject to a license. Learn more: ~LicenseLog:471694772.
-// Suggested code may be subject to a license. Learn more: ~LicenseLog:696914078.
 import React, { useState } from 'react';
 import IndhJourneyCard from '../ui/IndhJourneyCard';
 
@@ -55,7 +53,8 @@ const IndhJourneySection = () => {
         ],
         videos: [
           {
-            url: '/src/assets/indh_stage1.mp4',
+            src: 'assets',
+            url: '/assets/indh_stage1.mp4',
             title: 'ورش ملكي أطلق سنة 2005، المبادرة الوطنية للتنمية البشرية فاعل رئيسي للتنمية البشرية.'
           }
         ]
@@ -227,7 +226,7 @@ const IndhJourneySection = () => {
         videos: [
           {
             src: 'assets',
-            url: '/src/assets/ind_stage3.mp4',
+            url: '/assets/ind_stage3.mp4',
             title: 'المبادرة الوطنية للتنمية البشرية - المرحلة الثالثة'
           },
           {

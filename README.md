@@ -1,12 +1,51 @@
-# React + Vite
+# INDH Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+This project is a web application built to showcase the journey and programs of the Initiative Nationale pour le Développement Humain (INDH) in Morocco, with a specific focus on the programs implemented in the Tinghir province.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+*   Interactive timeline of the INDH journey (2005-2025).
+*   Detailed information on each phase of the INDH.
+*   Flippable cards showcasing INDH programs by sector in Tinghir.
+*   Responsive design for mobile and desktop.
+*   Integration of multimedia content (videos, images).
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Technologies Used
+
+*   **React:** A JavaScript library for building user interfaces.
+*   **Vite:** A fast frontend build tool.
+*   **Tailwind CSS:** A utility-first CSS framework for styling.
+*   Other dependencies as listed in `package.json`.
+
+## Installation
+
+To set up the project locally, follow these steps:
+
+1.  **Clone the repository:**
+2.  **Navigate to the project directory:**
+3.  **Install dependencies:**
+
+## Usage
+
+To run the development server, use the following command:
+This will start the Vite development server, and you can view the application in your browser at `http://localhost:5173/` (or the port indicated in your terminal).
+
+## Contributing
+
+If you would like to contribute to this project, please follow these steps:
+
+1.  Fork the repository.
+2.  Create a new branch for your features or bug fixes.
+3.  Make your changes and commit them with clear messages.
+4.  Push your changes to your fork.
+5.  Create a pull request to the main repository.
+
+## License
+
+This project is free and open-source. Feel free to use, modify, and distribute it as you see fit. 
+
+## Contact
+
+If you have any questions or suggestions, please feel free to contact moksit.abdelhakim@gmail.com.

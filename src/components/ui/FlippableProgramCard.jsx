@@ -4,7 +4,6 @@ const FlippableProgramCard = ({ program }) => {
   const [isFlipped, setIsFlipped] = useState(false);
 
   const handleCardClick = () => {
-    console.log(program);
     setIsFlipped(!isFlipped);
   };
 

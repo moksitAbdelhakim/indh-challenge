@@ -31,7 +31,7 @@ function App() {
                   <a href="#timeline">
                     استكشف المعالم البارزة</a>
                 </Button>
-                <Button variant="outline" size="lg" className="border-accent text-accent hover:bg-accent/30" asChild>
+                <Button variant="outline" size="lg" className="border-accent text-accent hover:bg-accent/30">
                   <a href="http://www.indh.ma/Ar" target="_blank" rel="noopener noreferrer">
                     الموقع الرسمي للمبادرة</a>
                 </Button>

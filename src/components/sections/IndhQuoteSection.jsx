@@ -1,5 +1,5 @@
 import React from 'react';
-import kingImage from '/src/assets/king.png';
+import kingImage from '/assets/king.png';
 
 const IndhQuoteSection = () => {
   return (
